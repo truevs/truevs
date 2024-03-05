@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @truevs
+- 👀 I’m interested to become a Python Developer
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: truevs.negligee714@passinbox.com
