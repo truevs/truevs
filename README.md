@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @truevs
-- 👀 I’m interested to become a Python Developer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested to become a IOS Developer
+- 📑 I’m currently learning Swift, while Python is my go-to side coding language.
 - 📫 How to reach me: truevs.negligee714@passinbox.com
